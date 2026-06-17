@@ -1,0 +1,6 @@
+{
+  "name": "SmartTV Launcher",
+  "description": "Trình khởi chạy Android TV Box mượt mà, trực quan với khả năng tùy chỉnh giao diện và quản lý ứng dụng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
